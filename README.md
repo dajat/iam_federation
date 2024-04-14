@@ -38,7 +38,7 @@ Next, you will set up the identity provider inside of Okta. Select Security > Id
 <br />
 <h2>Setting up the IdP in Azure</h2>
 <p>
-<img src="https://imgur.com/f4pxRkL.png" height="80%" width="80%" alt="AD Federation"/>
+<img src="https://imgur.com/f4pxRkL.png" height="60%" width="60%" alt="AD Federation"/>
 <img src="https://imgur.com/Idw7YWy.png" height="80%" width="80%" alt="AD Federation"/>
 </p>
 <p>
@@ -65,10 +65,11 @@ Next, you will begin mapping the attributes inside of Okta that will be pulled f
 <br />
 <h2>Testing out Okta</h2>
 <p>
-<img src=".png" height="80%" width="80%" alt="Okta"/>
-<img src=".png" height="80%" width="80%" alt="Okta"/>
+<img src="https://imgur.com/sZBTKZT.png" height="60%" width="60%" alt="Okta"/>
+<img src="https://imgur.com/wBcs7hK.png" height="60%" width="60%" alt="Okta"/>
+<img src="https://imgur.com/sjva3UT.png" height="60%" width="60%" alt="Okta"/>
 </p>
 <p>
-.
+10.	Next, test out the linking of Okta and Azure by assigning users to the application. Select Users and Groups under the application that was created earlier > Add new user/group > Select Single Sign > Test > Test Sign On. Make sure that the attributes that are assigned in Okta are filled out in Azure under the users and groups of the Okta enterprise application.
 </p>
 <br />
