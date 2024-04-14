@@ -38,7 +38,7 @@ Next, you will set up the identity provider inside of Okta. Select Security > Id
 <br />
 <h2>Setting up the IdP in Azure</h2>
 <p>
-<img src="https://imgur.com/F4ihiT5.png" height="80%" width="80%" alt="AD Federation"/>
+<img src="https://imgur.com/f4pxRkL.png" height="80%" width="80%" alt="AD Federation"/>
 <img src="https://imgur.com/Idw7YWy.png" height="80%" width="80%" alt="AD Federation"/>
 </p>
 <p>
@@ -47,29 +47,20 @@ After creating the application, select ‘Setup SSO’ > Select SAML for the SSO
 <br />
 <h2>Setting up the IdP in Azure Continued</h2>
 <p>
-<img src=".png" height="60%" width="60%" alt="AD Federation"/>
-<img src=".png" height="60%" width="60%" alt="AD Federation"/>
+<img src="https://imgur.com/z14W9LP.png" height="60%" width="60%" alt="AD Federation"/>
+<img src="https://imgur.com/79f5JQc.png" height="60%" width="60%" alt="AD Federation"/>
+<img src="https://imgur.com/1E5fQ97.png" height="60%" width="60%" alt="AD Federation"/>
 </p>
 <p>
-.
-</p>
-<br />
-<h2>Setting up the IdP in Azure Continued</h2>
-<p>
-<img src=".png" height="60%" width="60%" alt="Azure"/>
-</p>
-<p>
-.
+Next, you will create a new SAML certificate > Select Save > Select the three dots to download the Base 64 Certificate download. Next, go back to the IDp provider screen in Okta and enter in the IDP Issue URI, IDP SSO URL, and the IDP signature Certificate under SAML Protocol Settings > Select Finish. Next, you will collect the Assertion Consumer Service URL and Audience URI for the SAML IDP for Okta and add to the Basic SAML Configuration for the Identifier (Entity ID) using the Audience URI and Reply URL using the Assertion Consumer Service URL > Select Save
 </p>
 <br />
 <h2>Linking and Mapping in Okta</h2>
 <p>
-<img src=".png" height="50%" width="50%" alt="Okta"/>
-<img src=".png" height="60%" width="60%" alt="Okta"/>
-<img src=".png" height="50%" width="50%" alt="Okta"/>
+<img src="https://imgur.com/PfNlpGv.png" height="50%" width="50%" alt="Okta"/>
 </p>
 <p>
-.
+Next, you will begin mapping the attributes inside of Okta that will be pulled from Azure. Select Edit profile and mappings inside of Okta IdP > Mappings to setup the attributes that will be pulled over from Azure. Unmap all mappings under the ‘All’ tab and Save > Remove all custom attributes and select save (Wait 30 seconds). Select Add Attribute under Custom and list the following above > Select Save.
 </p>
 <br />
 <h2>Testing out Okta</h2>
