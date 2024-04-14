@@ -78,9 +78,9 @@ This tutorial outlines configuring both Okta and Azure by creating an Identity P
 <br />
 <h2>Testing out Okta</h2>
 <p>
-<img src="https://imgur.com/sZBTKZT.png" height="80%" width="80%" alt="Okta"/>
-<img src="https://imgur.com/wBcs7hK.png" height="80%" width="80%" alt="Okta"/>
-<img src="https://imgur.com/sjva3UT.png" height="80%" width="80%" alt="Okta"/>
+<img src="https://imgur.com/sZBTKZT.png" height="60%" width="60%" alt="Okta"/>
+<img src="https://imgur.com/wBcs7hK.png" height="60%" width="60%" alt="Okta"/>
+<img src="https://imgur.com/sjva3UT.png" height="60%" width="60%" alt="Okta"/>
 </p>
 <p>
 
