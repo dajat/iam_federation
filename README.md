@@ -20,6 +20,7 @@ This tutorial outlines configuring both Okta and Azure by creating an Identity P
 
 <h2>Creating a User inside of Okta</h2>
 <p>
+<img src="https://imgur.com/byDJ1mI.png" height="60%" width="60%" alt="Microsoft Entra Group"/>
 <img src="https://imgur.com/sPkeura.png" height="60%" width="60%" alt="Microsoft Entra Group"/>
 </p>
 <p>
