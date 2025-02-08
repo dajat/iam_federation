@@ -32,9 +32,9 @@ This tutorial outlines configuring both Okta and Azure by creating an Identity P
 <br />
 <h2>Setting up the Identity Provider in Okta</h2>
 <p>
-<img src="https://imgur.com/mvxha1M.png" height="60%" width="60% alt="IdP"/>
-<img src="https://imgur.com/2zr1NfX.png" height="60%" width="60% alt="IdP"/>
-<img src="https://imgur.com/2h0v1Jy.png" height="60%" width="60% alt="IdP"/>
+<img src="https://imgur.com/Rz0emZm.png" height="60%" width="60% alt="IdP"/>
+<img src="https://imgur.com/Qnz3vzL.png" height="60%" width="60% alt="IdP"/>
+<img src="https://imgur.com/nZUGj5R.png" height="60%" width="60% alt="IdP"/>
 </p>
 <p>
 
