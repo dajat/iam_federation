@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/Eisrkr6.png" height="40%" width="40% alt=" AD Federation"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFHrhxKbpCI1a-fY4vE40kw-FDkMQ98j5P0ulbN1O7K8XR06IUwQkMhgb6Ob7icGEUHeeJJlCf7Rpn4ZxjgXZfktuB7XFuIJlFVH6t48YsNhuSh0_JU-7bjztoBhmTjFcx7Spesl40yRFJPKtZAEYXvZW504KQ_oZPkJtZK6DVGwM1Ooqk8hqlyYamtTct/s1600" height="40%" width="40% alt=" AD Federation"/>
 </p>
 
 <h1>Active Directory Federation using Okta (Azure)</h1>
@@ -21,7 +21,8 @@ This tutorial outlines configuring both Okta and Azure by creating an Identity P
 <h2>Creating a User inside of Okta</h2>
 <p>
 <img src="https://imgur.com/byDJ1mI.png" height="60%" width="60%" alt="Microsoft Entra Group"/>
-<img src="https://imgur.com/sPkeura.png" height="60%" width="60%" alt="Microsoft Entra Group"/>
+<img src="https://imgur.com/XmGOwko.png" height="60%" width="60%" alt="Microsoft Entra Group"/>
+<img src="https://imgur.com/cGA0TI5.png" height="60%" width="60%" alt="Microsoft Entra Group"/>
 </p>
 <p>
 
